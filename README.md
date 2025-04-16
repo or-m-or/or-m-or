@@ -1,1 +1,1 @@
-![HEO TAE HWAN](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=HEO%20TAE%20HWAN&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=45&textBg=false)
+![HEO TAE HWAN](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=HEO%20TAE%20HWAN&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=45&textBg=false&desc=or%20m%20or)
